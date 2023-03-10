@@ -1,3 +1,6 @@
+"""
+LEE HYUNHO, 201902927, Computer Enginnering and Science
+"""
 import time, random
 
 def evaluate_n2(A,x):
