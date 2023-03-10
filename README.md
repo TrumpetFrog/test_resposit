@@ -1,3 +1,2 @@
 # test_resposit
-
-# test for OS/SW in hufs
+test for OS/SW in hufs
