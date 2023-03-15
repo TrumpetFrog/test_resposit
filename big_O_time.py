@@ -4,6 +4,7 @@ LEE HYUNHO, 201902927, Computer Enginnering and Science
 import time, random
 
 def evaluate_n2(A,x):
+    '''이중 for문을 사용하여 O(n^2)을 가지게 한다'''
     result = 0
     for i in range(0,n):
         temp = 1
@@ -14,6 +15,7 @@ def evaluate_n2(A,x):
     return result
 
 def evaluate_n(A,x):
+    '''단일 포문을 사용하여 O(n)을 가지게 한다'''
     result = 0
     for i in range(0,n):
         if i == 0:
