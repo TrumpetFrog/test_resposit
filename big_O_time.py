@@ -3,7 +3,7 @@ LEE HYUNHO, 201902927, Computer Enginnering and Science
 contributor: MillionKiwi, TrunpetFrog
 
 
-for test!!
+for THE test!!!!!!!!!!!!!!!
 """
 import time, random
 
