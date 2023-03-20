@@ -1,9 +1,7 @@
 """
 LEE HYUNHO, 201902927, Computer Enginnering and Science
-contributor: MillionKiwi, TrunpetFrog
 
-
-test by MillionKiwi
+test by Millionkiwi
 """
 import time, random
 
@@ -48,3 +46,6 @@ for i in range(10):
     after = time.process_time()
     print("evaluate_n: ", after-before)
 
+    
+    """test by TrumpetFrog"""
+    
