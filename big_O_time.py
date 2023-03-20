@@ -1,10 +1,3 @@
-"""
-LEE HYUNHO, 201902927, Computer Enginnering and Science
-contributor: MillionKiwi, TrunpetFrog
-
-
-for THE test!!!!!!!!!!!!!!!
-"""
 import time, random
 
 def evaluate_n2(A,x):
@@ -48,3 +41,6 @@ for i in range(10):
     after = time.process_time()
     print("evaluate_n: ", after-before)
 
+    
+    """test by TrumpetFrog"""
+    
