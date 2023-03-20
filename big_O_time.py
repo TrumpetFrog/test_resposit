@@ -2,6 +2,7 @@
 LEE HYUNHO, 201902927, Computer Enginnering and Science
 
 test by Millionkiwi
+question by trumpetfrog
 """
 import time, random
 
